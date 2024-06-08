@@ -48,9 +48,6 @@ A simple web-based Spotify clone that mimics some core functionalities and desig
 
 5. **Create a pull request** on GitHub.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
