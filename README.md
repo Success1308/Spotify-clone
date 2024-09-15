@@ -1,5 +1,6 @@
 # Spotify Clone
 
+
 A simple web-based Spotify clone that mimics some core functionalities and design of the popular music streaming service.
 
 ## Features
